@@ -2,7 +2,8 @@
     "name": "Unit 1 Skillmap",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
     },
     "files": [
         "main.blocks",
@@ -21,5 +22,23 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#FF93C4",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#9AF00D",
+        "#003FAD",
+        "#32E3D0",
+        "#D59DFF",
+        "#A4839F",
+        "#5C406c",
+        "#D1D1D1",
+        "#191919",
+        "#000000"
+    ]
 }

@@ -2,7 +2,7 @@
 * name: Unit 1
 * description: Work with the primary element in MakeCode Arcade: The Sprite
 * bannerUrl:
-* backgroundUrl:
+* backgroundUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/skillmap-bg.gif?raw=true
 * primarycolor: #30E3D1
 * secondarycolor: #30E3D1
 * tertiarycolor: #191919
@@ -20,8 +20,8 @@
 * description: Place sprites on the screen. Work with different kinds of sprites.
 * next: sprite-lab3
 
-* url: 
-* imageUrl:
+* url: https://github.com/rymc88/Unit-1-Skillmap/blob/master/tutorials/Lab-1-2
+* imageUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/overview-1-2.png?raw=true
 
 ### sprite-lab3
 
@@ -29,8 +29,8 @@
 * type: tutorial
 * description: Move hero sprite with the d-pad. Explain sprite velocity. Make sprites follow each other.
 
-* url: 
-* imageUrl:
+* url: https://github.com/rymc88/Unit-1-Skillmap/blob/master/tutorials/Lab-1-3
+* imageUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/overview-1-3.gif?raw=true
 
 ## Labs-4-6
 * name: Sprite Collisions & Extras
@@ -43,8 +43,8 @@
 * description: Use collisions event handlers. Use built-in variables for life and score. Randomize sprite placement.
 * next: sprite-lab5
 
-* url: 
-* imageUrl:
+* url: https://github.com/rymc88/Unit-1-Skillmap/blob/master/tutorials/Lab-1-4
+* imageUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/overview-1-4.gif?raw=true
 
 ### sprite-lab5
 
@@ -53,8 +53,8 @@
 * description: Detect collisions between different sprite kinds. Destroy sprites with effects. Set and update lives. 
 * next: sprite-lab6
 
-* url: 
-* imageUrl:
+* url: https://github.com/rymc88/Unit-1-Skillmap/blob/master/tutorials/Lab-1-5
+* imageUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/overview-1-5.gif?raw=true
 
 ### sprite-lab6
 
@@ -62,5 +62,5 @@
 * type: tutorial
 * description: Displaying text on the screen or with sprite. Set and update a timer. 
 
-* url: 
-* imageUrl:
+* url: https://github.com/rymc88/Unit-1-Skillmap/blob/master/tutorials/Lab-1-6
+* imageUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/overview-1-6.gif?raw=true
