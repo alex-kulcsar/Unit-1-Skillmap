@@ -3,7 +3,7 @@
 * description: Work with the primary element in MakeCode Arcade: The Sprite
 * bannerUrl:
 * backgroundUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/skillmap-bg.gif?raw=true
-* primarycolor: #30E3D1
+* primarycolor: #D2D2D2
 * secondarycolor: #30E3D1
 * tertiarycolor: #191919
 * highlightcolor: #9AF10C
