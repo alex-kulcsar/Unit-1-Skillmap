@@ -1,7 +1,7 @@
 # Unit-1
 * name: Unit 1
 * description: Work with the primary element in MakeCode Arcade: The Sprite
-* bannerUrl:
+* bannerUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/banner.png?raw=true
 * backgroundUrl: https://github.com/rymc88/Unit-1-Skillmap/blob/master/img/skillmap-bg.gif?raw=true
 * primarycolor: #D2D2D2
 * secondarycolor: #30E3D1
