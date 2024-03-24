@@ -12,7 +12,12 @@
         "README.md",
         "assets.json",
         "skillmap.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "Lab-1-2.md",
+        "Lab-1-3.md",
+        "Lab-1-4.md",
+        "Lab-1-5.md",
+        "Lab-1-6.md"
     ],
     "testFiles": [
         "test.ts"
